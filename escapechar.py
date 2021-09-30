@@ -12,8 +12,8 @@ print("""The pet shop owner said "No, no, \
 'e's uh,...he's resting". """)
 
 anotherSplitString = """This string has been \
-split over \
-several \
+split over \t
+several \t
 lines"""
 
 print(anotherSplitString)
