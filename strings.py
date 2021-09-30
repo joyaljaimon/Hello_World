@@ -10,7 +10,7 @@ print(greeting + name)
 # If we want a space,we can add that too
 print(greeting + ' ' + name)
 
-
+#we can also print variables
 age = 24
 print(age)
 
