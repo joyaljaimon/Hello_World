@@ -15,7 +15,7 @@ print(a + (b/3) - (4 *12))
 print((((a + b) / 3) - 4) * 12)
 print(((a + b) /3 - 4) * 12)
 
-c = a + b
+c = a + b. # variable c is a added to b
 d = c / 3
 e = d - 4
 print(e * 12)
